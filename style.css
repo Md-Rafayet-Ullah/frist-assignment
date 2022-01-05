@@ -34,3 +34,15 @@ section{
    font-weight: 500;
    border-radius: 6px; 
 }
+.No-age{
+    font-size: 40px;
+    padding-left: 20px;
+}
+.Until-dead-learn{
+    color: mediumpurple;
+    font-size: 35px;
+    padding-left: 20px;
+}
+.mission{
+    color: mediumpurple;
+}
