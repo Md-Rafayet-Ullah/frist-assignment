@@ -15,9 +15,38 @@ p{
 .jwd-color{
     color: mediumpurple;
 }
-section{
+.mission-2022{
     display: flex;   
 }
+.sec-8{
+    display: flex;
+}
+#sec-8{
+    display: flex;   
+}
+ #center {
+    margin: auto;
+    width:    70%;
+    padding: 10px;
+}
+#contact-us-color{
+    color: rgb(179, 8, 8);
+}
+#padding{
+    padding: auto;
+    border-radius: 10px;
+    margin: 10px;
+}
+#mission-background{
+    background-color: gray;    
+}
+#Vission-bacground{
+    background-color: plum;
+}
+#Goal-bacground{
+    background-color: salmon;
+}
+
 .half-width{
     width: 50%;
     padding-left: 50px;
@@ -25,7 +54,14 @@ section{
 .half-width img{
     width: 80%;
 }
-.Hire-Me-Button{
+.half-hidth{
+    width: 30%;
+    padding-left: 40px;
+}
+.half-hidth img{
+    width: 50%;
+}
+.Tab-Open-for-relevent-Topic{
    text-decoration: none;
    background-color: forestgreen;
    background-image: linear-gradient(tomato blue);
@@ -43,6 +79,6 @@ section{
     font-size: 35px;
     padding-left: 20px;
 }
-.mission{
-    color: mediumpurple;
+.orange-color{
+    color: orange;
 }
